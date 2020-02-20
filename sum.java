@@ -1,6 +1,6 @@
 public class sum
 {
-	public static void main(String[] args)
+	public void sum()
 	{
 		int a=5;
 		int b=7;
