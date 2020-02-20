@@ -13,10 +13,8 @@ public class sumOfNumbers
 		
 		multOfNumbers multOfNumbers=new multOfNumbers();
 		multOfNumbers.multiplyNumbers();
-		subOfNumbers subOfNumbers=new subOfNumbers();
-		subOfNumbers.multiplyNumbers();
-		divOfNumbers divOfNumbers=new divOfNumbers();
-		divOfNumbers.multiplyNumbers();
+		sum sum= new sum();
+		sum.sum();
 		System.out.println("The Sum of numbers are - " + sum);
 
 
